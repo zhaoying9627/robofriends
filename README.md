@@ -1,9 +1,9 @@
-# robofriendS
-TO run this project:
+# robofriends
+TO run this project:\
 
-1.Clone this repo
-2.Run npm install
-3.Run npm start
+1.Clone this repo\
+2.Run npm install\
+3.Run npm start\
 
 ## Available Scripts
 
